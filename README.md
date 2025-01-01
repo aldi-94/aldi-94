@@ -2,7 +2,6 @@
 <h3 align="center"> Keep Dreaming !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldi-94&label=Profile%20views&color=129e00&style=plastic" alt="aldi-94" /> </p>
-<!-- <img align="right" alt="Coding" width="250" height="400" src="byu.jpg"> -->
 
 - 👨‍💻 You can also check out my portfolio at [https://aldi-94.github.io/](https://.github.io/)
 
@@ -13,9 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rinaldi-indra-pratama-462211160/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rinaldi-indra-pratama-462211160/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rinaldi Indra Pratama" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aldipratm__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aldipratm__" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/channel/UCW2lyQoXMYUvRk8JpYNNcJw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a> -->
 
 </p>
 
